@@ -64,9 +64,9 @@ label{
     display:block;
     margin:15px 0 0 0;
 }
-input(
+input{
     width:300px;
-)
+}
 input[type="radio"]{
     width:25px;
 }
